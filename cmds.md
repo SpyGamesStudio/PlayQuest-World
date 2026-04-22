@@ -8,6 +8,9 @@ local ADMINS = {
 	["YamchaJojo"] = true,
 	["Oatmeai_gaming"] = true,
 	["Breiwr"] = true,
+	["restosword"] = true,
+	["Djbienge"] = true,
+	["jojojoseph09"] = true
 }
 
 local frozenPlayers = {}
