@@ -34,24 +34,35 @@ Players.PlayerAdded:Connect(function(player)
 			local command = args[1]:lower()
 			local target = getPlayer(args[2] or "")
 			
+			-- SPEED
 			if command == "speed" and target then
 				local humanoid = target.Character and target.Character:FindFirstChild("Humanoid")
 				if humanoid then
 					humanoid.WalkSpeed = tonumber(args[3]) or 50
 				end
 			
+			-- JUMP
 			elseif command == "jump" and target then
 				local humanoid = target.Character and target.Character:FindFirstChild("Humanoid")
 				if humanoid then
 					humanoid.JumpPower = tonumber(args[3]) or 100
 				end
 			
+			-- HEAL
 			elseif command == "heal" and target then
 				local humanoid = target.Character and target.Character:FindFirstChild("Humanoid")
 				if humanoid then
 					humanoid.Health = humanoid.MaxHealth
 				end
 			
+			-- KILL
+			elseif command == "kill" and target then
+				local humanoid = target.Character and target.Character:FindFirstChild("Humanoid")
+				if humanoid then
+					humanoid.Health = 0
+				end
+			
+			-- EXPLODE
 			elseif command == "explode" and target then
 				local char = target.Character
 				if char and char:FindFirstChild("HumanoidRootPart") then
@@ -60,27 +71,86 @@ Players.PlayerAdded:Connect(function(player)
 					explosion.Parent = workspace
 				end
 			
-			elseif command == "freeze" and target then
-				local char = target.Character
-				if char then
-					for _, part in pairs(char:GetDescendants()) do
-						if part:IsA("BasePart") then
-							part.Anchored = true
-						end
-					end
-					frozenPlayers[target] = true
+			-- BRING
+			elseif command == "bring" and target then
+				if player.Character and target.Character then
+					target.Character:PivotTo(player.Character:GetPivot())
 				end
 			
-			elseif command == "unfreeze" and target then
-				local char = target.Character
-				if char then
-					for _, part in pairs(char:GetDescendants()) do
-						if part:IsA("BasePart") then
-							part.Anchored = false
+			-- GOTO
+			elseif command == "goto" and target then
+				if player.Character and target.Character then
+					player.Character:PivotTo(target.Character:GetPivot())
+				end
+			
+			-- SIT
+			elseif command == "sit" and target then
+				local humanoid = target.Character and target.Character:FindFirstChild("Humanoid")
+				if humanoid then
+					humanoid.Sit = true
+				end
+			
+			-- UNSIT
+			elseif command == "unsit" and target then
+				local humanoid = target.Character and target.Character:FindFirstChild("Humanoid")
+				if humanoid then
+					humanoid.Sit = false
+				end
+			
+			-- INVISIBLE
+			elseif command == "invisible" and target then
+				for _, part in pairs(target.Character:GetDescendants()) do
+					if part:IsA("BasePart") or part:IsA("Decal") then
+						part.Transparency = 1
+					end
+				end
+			
+			-- VISIBLE
+			elseif command == "visible" and target then
+				for _, part in pairs(target.Character:GetDescendants()) do
+					if part:IsA("BasePart") or part:IsA("Decal") then
+						part.Transparency = 0
+					end
+				end
+			
+			-- FORCEFIELD
+			elseif command == "ff" and target then
+				if target.Character then
+					local ff = Instance.new("ForceField")
+					ff.Parent = target.Character
+				end
+			
+			-- REMOVE FORCEFIELD
+			elseif command == "unff" and target then
+				if target.Character then
+					for _, v in pairs(target.Character:GetChildren()) do
+						if v:IsA("ForceField") then
+							v:Destroy()
 						end
 					end
-					frozenPlayers[target] = nil
 				end
+			
+			-- FREEZE
+			elseif command == "freeze" and target then
+				for _, part in pairs(target.Character:GetDescendants()) do
+					if part:IsA("BasePart") then
+						part.Anchored = true
+					end
+				end
+				frozenPlayers[target] = true
+			
+			-- UNFREEZE
+			elseif command == "unfreeze" and target then
+				for _, part in pairs(target.Character:GetDescendants()) do
+					if part:IsA("BasePart") then
+						part.Anchored = false
+					end
+				end
+				frozenPlayers[target] = nil
+			
+			-- GRAVITY
+			elseif command == "gravity" then
+				workspace.Gravity = tonumber(args[2]) or 196.2
 			end
 		end
 	end)
