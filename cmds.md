@@ -5,7 +5,9 @@ local Players = game:GetService("Players")
 
 local PREFIX = ";"
 local ADMINS = {
-	["YamchaJojo"] = true
+	["YamchaJojo"] = true,
+	["Oatmeai_gaming"] = true,
+	["Breiwr"] = true,
 }
 
 local frozenPlayers = {}
