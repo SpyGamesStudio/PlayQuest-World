@@ -10,7 +10,8 @@ local ADMINS = {
 	["Breiwr"] = true,
 	["restosword"] = true,
 	["Djbienge"] = true,
-	["jojojoseph09"] = true
+	["jojojoseph09"] = true,
+	["jojomarioluigi"] = true
 }
 
 local frozenPlayers = {}
