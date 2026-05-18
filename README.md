@@ -11,15 +11,16 @@ Here's our website (Built with Framer): [SpyGamesSite](https://spygames.framer.w
 - 🎨 Creative & Stylized Design
 
 ### Status
-🚧 Temporarily Closed
+- 🪧 Pre-Alpha
 
 ### Release Dates:
-Pre Alpha 21/03/2026
+Pre Alpha = 21/03/2026
+Alpha 1 = 5/06/2026
 
 ### Credits:
-- FusionJ0 - [Profile](https://www.roblox.com/users/1263096888/profile)
-- Oatmeai - [Profile](https://www.roblox.com/users/2671750373/profile)
-- Breiwr - [Profile](https://www.roblox.com/users/2380584023/profile)
+- FusionJ0 - [Profile](https://www.roblox.com/users/1263096888/profile "FusionJ0")
+- Oatmeai - [Profile](https://www.roblox.com/users/2671750373/profile "Oatmeai")
+- Breiwr - [Profile](https://www.roblox.com/users/2380584023/profile "Breiwr")
 
 
 
