@@ -1,6 +1,6 @@
 # PlayQuest-World
 ### Desc:
-[PlayQuest](https://www.roblox.com/games/14792484484/PlayQuest) is a massive world waiting to be explored. Their quest is simple yet endless: to explore new places. Good afternoon, good evening, and good night.
+[PlayQuest](https://www.roblox.com/games/14792484484/PlayQuest) is a massive world waiting to be explored. Good afternoon, good evening, and good night.
 
 Here's our website (Built with Framer): [SpyGamesSite](https://spygames.framer.website)
 
@@ -14,9 +14,9 @@ Here's our website (Built with Framer): [SpyGamesSite](https://spygames.framer.w
 - 🪧 Pre-Alpha
 
 ### Release Dates:
-Pre Alpha = 21/03/2026
-Alpha 1 = 5/06/2026
-Alpha 2 = ???
+- Pre Alpha = 21/03/2026
+- Alpha 1 = 5/06/2026
+- Alpha 2 = ???
 
 ### Credits:
 - FusionJ0 - [Profile](https://www.roblox.com/users/1263096888/profile "FusionJ0")
