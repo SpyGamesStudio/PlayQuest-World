@@ -4,14 +4,8 @@
 
 Here's our website (Built with Framer): [SpyGamesSite](https://spygames.framer.website)
 
-### Features:
-- 🎭 Character-Focused Adventure
-- 🌍 Exploration-Driven World
-- 🧩 Quests & Puzzles
-- 🎨 Creative & Stylized Design
-
 ### Status
-- 🪧 Pre-Alpha
+Alpha 1
 
 ### Release Dates:
 - Pre Alpha = 21/03/2026
