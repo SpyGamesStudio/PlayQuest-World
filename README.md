@@ -1,12 +1,9 @@
-## PlayQuest-World 🌴
+![PlayQuestLogo](docs/img/PQMainIconTransparent.png)
 
 ## Desc 📜
-PlayQuest is a massive world waiting to be explored. Good afternoon, good evening, and good night.
+PlayQuest-world is a Roblox adventure game focused on exploration, memorable characters, and story-driven experiences. Join Henry and his friends as they embark on quests, discover secrets, and create unforgettable memories.
 
 Here's our website (Built with Framer): [SpyGamesSite](https://spygames.framer.website)
-
-## Status 🛠️
-(Alpha 1)
 
 ## Characters 👥
 - Henry Schwartz
@@ -25,6 +22,9 @@ Here's our website (Built with Framer): [SpyGamesSite](https://spygames.framer.w
 
 ## PLAY NOW 🎮
 [PLAYQUEST](https://www.roblox.com/games/14792484484)
+
+## Status 🛠️
+Alpha 1
 
 ## Credits ✨
 - FusionJ0 - [Profile](https://www.roblox.com/users/1263096888/profile "FusionJ0")
