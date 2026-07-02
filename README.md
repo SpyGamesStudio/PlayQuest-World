@@ -21,16 +21,15 @@ Here's our website (Built with Framer): [SpyGamesSite](https://spygames.framer.w
 - Alpha 4 = ???
 
 ## PLAY NOW 🎮
-[PLAYQUEST](https://www.roblox.com/games/14792484484)
+[PlayQuest](https://www.roblox.com/games/14792484484)
 
 ## Status 🛠️
 Alpha 1
 
 ## Credits ✨
-- FusionJ0 - [Profile](https://www.roblox.com/users/1263096888/profile "FusionJ0")
-- Oatmeai - [Profile](https://www.roblox.com/users/2671750373/profile "Oatmeai")
-- Breiwr - [Profile](https://www.roblox.com/users/2380584023/profile "Breiwr")
+* FusionJ0 - Builder, Scripter, and Creator of PlayQuest
 
+***
 
 
 
