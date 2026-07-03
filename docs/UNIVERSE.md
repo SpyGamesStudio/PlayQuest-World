@@ -8,7 +8,7 @@ The **PlayQuest Universe** is a fictional universe created by **FusionJ0**. It c
 
 - **Type:** Animated Series (Prequel)
 - **Development Began:** 2022
-- **Directed by:** FusionJ0
+- **Directed/Writeen/Created by:** FusionJ0
 - **Status:** In Development
 
 The TV Show serves as the beginning of the PlayQuest timeline, introducing Henry, Kayla, James, Ava, Zoey, Abigail, Michael, and the events that shape the world before the Roblox game.
