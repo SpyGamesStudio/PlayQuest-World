@@ -1,5 +1,6 @@
 ## 👥 PlayQuest Characters
-
+> [!NOTE]
+> This page contains the main cast of the **PlayQuest Universe**. Character information may expand as future stories and games are released.
 The main cast of **PlayQuest**. Henry, James, Kayla, Ava, Zoey, and Abigail
 
 ---
@@ -7,11 +8,11 @@ The main cast of **PlayQuest**. Henry, James, Kayla, Ava, Zoey, and Abigail
 ## Henry Schwartz
 
 - **Age:** 19
-- **Birthday:** early September 2002
-- **Role:** Main Protagonist
+- **Birthday:** Early September 2002
 - **Status:** Alive
-- **First Appearance:** PlayQuest (TV Show)
 - **Relationship:** Kayla (Girlfriend)
+### Appearances
+PlayQuest (TV Show)
 
 A kind-hearted adventurer who always tries to help others. Henry is the central protagonist of PlayQuest and often finds himself leading the group through new adventures.
 
@@ -19,11 +20,11 @@ A kind-hearted adventurer who always tries to help others. Henry is the central 
 ## James Walton
 
 - **Age:** 19
-- **Birthday:** mid December 2002
-- **Role:** Main Character
+- **Birthday:** Mid December 2002
 - **Status:** Alive
-- **First Appearance:** PlayQuest (TV Show)
 - **Former Name:** Leon
+### Appearances
+PlayQuest (TV Show)
 
 A dependable member of the group who often lightens serious situations with humor.
 
@@ -31,11 +32,11 @@ A dependable member of the group who often lightens serious situations with humo
 ## Kayla Sawyer
 
 - **Age:** 18
-- **Birthday:** early January 2003
-- **Role:** Main Protagonist
+- **Birthday:** Early January 2003
 - **Status:** Alive
-- **First Appearance:** PlayQuest (TV Show)
 - **Relationship:** Henry (Boyfriend)
+### Appearances
+PlayQuest (TV Show)
 
 A gentle and caring adventurer who always looks out for her friends.
 
@@ -43,11 +44,11 @@ A gentle and caring adventurer who always looks out for her friends.
 ## Ava Carter
 
 - **Age:** 18
-- **Birthday:** late Feb 2003
-- **Role:** Main Character
+- **Birthday:** Late Feb 2003
 - **Status:** Alive
-- **First Appearance:** PlayQuest (TV Show)
 - **Former Name:** Rose
+### Appearances
+PlayQuest (TV Show)
 
 Calm and thoughtful, Ava often keeps the group grounded during difficult moments.
 
@@ -55,11 +56,11 @@ Calm and thoughtful, Ava often keeps the group grounded during difficult moments
 ## Zoey Harper
 
 - **Age:** 18
-- **Birthday:** mid January 2003
-- **Role:** Main Character
+- **Birthday:** Mid January 2003
 - **Status:** Alive
-- **First Appearance:** PlayQuest (TV Show)
 - **Former Name:** Giselle
+### Appearances
+PlayQuest (TV Show)
 
 Cheerful and energetic, Zoey brings excitement wherever she goes.
 
@@ -67,10 +68,10 @@ Cheerful and energetic, Zoey brings excitement wherever she goes.
 ## Abigail Grace
 
 - **Age:** 18
-- **Birthday:** early Feb 2003
-- **Role:** Main Character
+- **Birthday:** Early Feb 2003
 - **Status:** Alive
-- **First Appearance:** PlayQuest (TV Show)
+### Appearances
+PlayQuest (TV Show)
 
 Observant and level-headed, Abigail enjoys teasing her close friends while always being there for them.
 
@@ -79,12 +80,12 @@ Observant and level-headed, Abigail enjoys teasing her close friends while alway
 ## Michael Schmidt
 
 - **Age:** 19
-- **Birthday:** early November 2002
-- **Role:** Lore Character
+- **Birthday:** Early November 2002
 - **Status:** Deceased
 - **Age at Death:** 15
 - **Cause of Death:** Entity Override
-- **First Appearance:** PlayQuest (TV Show)
-- **Last Appearance:** PlayQuest (Roblox Game)
+### Appearances
+PlayQuest (TV Show)
+PlayQuest Roblox Game (Spirit)
 
 Although no longer alive during the events of PlayQuest, Michael's story remains an important part of the game's lore.
