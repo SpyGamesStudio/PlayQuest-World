@@ -13,6 +13,8 @@ Here's our website (Built with Framer): [SpyGamesSite](https://spygames.framer.w
 - Zoey Harper
 - Abigail Grace
 
+Read more about them in [CHARACTERS](docs/CHARACTERS.md)
+
 ## Release Dates:
 - Pre Alpha = 21/03/2026
 - Alpha 1 = 5/06/2026
