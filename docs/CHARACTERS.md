@@ -1,7 +1,7 @@
 ## 👥 PlayQuest Characters
 > [!NOTE]
 > This page contains the main cast of the **PlayQuest Universe**. Character information may expand as future stories and games are released.
-The main cast of **PlayQuest**. Henry, James, Kayla, Ava, Zoey, and Abigail
+> The main cast of **PlayQuest**. Henry, James, Kayla, Ava, Zoey, and Abigail
 
 ---
 
@@ -14,7 +14,7 @@ The main cast of **PlayQuest**. Henry, James, Kayla, Ava, Zoey, and Abigail
 ### Appearances
 PlayQuest (TV Show)
 
-A kind-hearted adventurer who always tries to help others. Henry is the central protagonist of PlayQuest and often finds himself leading the group through new adventures.
+A kind-hearted adventurer who always tries to help others. Henry is the protagonist of PlayQuest and often leads the group on new adventures.
 
 
 ## James Walton
