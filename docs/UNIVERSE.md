@@ -22,6 +22,6 @@ The TV Show serves as the beginning of the PlayQuest timeline, introducing Henry
 - **Developer:** SpyGamesStudio
 - **Status:** Alpha 1
 
-The Roblox game continues the story after the events of **PlayQuest: TV Show**, following Henry and his friends on new adventures while uncovering mysteries from the past.
+The Roblox game continues the story after the events of PlayQuest: TV Show, following Henry and his friends on new adventures while uncovering mysteries from the past.
 
 ---
