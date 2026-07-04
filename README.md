@@ -1,7 +1,7 @@
 ![PlayQuestLogo](docs/img/BigPQIcon.png)
 
 ## Desc
-PlayQuest-world is a Roblox adventure game focused on exploration, memorable characters, and story-driven experiences. Join Henry and his friends as they embark on quests, discover secrets, and create unforgettable memories.
+**PlayQuest-world** is a story-driven adventure that follows Henry and his friends through a world of exploration, mystery, and unforgettable experiences. Together, they set out on thrilling quests, uncover hidden truths, and forge lasting friendships as they face the challenges ahead.
 
 Here's our website (Built with Framer): [SpyGamesSite](https://spygames.framer.website)
 
@@ -19,8 +19,6 @@ Read more about them in [CHARACTERS](docs/CHARACTERS.md)
 - Pre Alpha = 21/03/2026
 - Alpha 1 = 5/06/2026
 - Alpha 2 = ???
-- Alpha 3 = ???
-- Alpha 4 = ???
 
 ## PLAY NOW
 [PlayQuest](https://www.roblox.com/games/14792484484)
@@ -29,7 +27,9 @@ Read more about them in [CHARACTERS](docs/CHARACTERS.md)
 Alpha 1
 
 ## Credits:
-* FusionJ0 - Builder, Scripter, and Creator of PlayQuest
+* FusionJ0 - Builder, Designer, and Creator of PlayQuest.
+* OatmeaI - Scripter and Developer of PlayQuest.
+* Breiwr - Builder and Developer of PlayQuest.
 
 ***
 
