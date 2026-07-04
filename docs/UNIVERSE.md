@@ -7,8 +7,8 @@ The **PlayQuest Universe** is a fictional universe created by **FusionJ0**. It c
 ## PlayQuest Show
 
 - **Type:** Animated Series (Prequel)
-- **Development Began:** 2022
-- **Directed/Written/Created by:** FusionJ0
+- **Development Began:** 2023
+- **Creator, Writer & Director:** FusionJ0
 - **Produced by:** SpyGamesStudio
 - **Status:** In Development
 
