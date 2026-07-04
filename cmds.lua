@@ -1,6 +1,4 @@
-## BUNCH OF COMMANDS
-
-```lua
+--// BUNCH OF COMMANDS
 local Players = game:GetService("Players")
 
 local PREFIX = ";"
@@ -159,7 +157,5 @@ Players.PlayerAdded:Connect(function(player)
 		end
 	end)
 end)
-```
-
 
 
