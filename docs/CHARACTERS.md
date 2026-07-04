@@ -86,6 +86,7 @@ Observant and level-headed, Abigail enjoys teasing her close friends while alway
 - **Cause of Death:** Entity Override
 ### Appearances
 PlayQuest (TV Show)
+
 PlayQuest Roblox Game (Spirit)
 
 Although no longer alive during the events of PlayQuest, Michael's story remains an important part of the game's lore.
