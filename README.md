@@ -17,19 +17,17 @@ Read more about them in [CHARACTERS](docs/CHARACTERS.md)
 
 ## Release Dates:
 - Pre Alpha = 21/03/2026
-- Alpha 1 = 5/06/2026
+- Alpha 1 = 5/06/2026 (CURRENT)
 - Alpha 2 = ???
+- Alpha 3 = ???
 
 ## PLAY NOW
 [PlayQuest](https://www.roblox.com/games/14792484484)
 
-## Status
-Alpha 1
-
 ## Credits:
-* FusionJ0 - Builder, Designer, and Creator of PlayQuest.
-* OatmeaI - Scripter and Developer of PlayQuest.
-* Breiwr - Builder and Developer of PlayQuest.
+* FusionJ0 - UI, Character & Environment Artist, Programmer, Studio/Development Director, and Main Dev duddd of PlayQuest.
+* OatmeaI - Programmer, QA, Concept & Character Artist, Development Director, and Main Dev of PlayQuest.
+* Breiwr - Producer, QA, Environment Artist, Development Director, and Main Dev of PlayQuest.
 
 ***
 
