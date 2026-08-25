@@ -16,10 +16,10 @@ Here's our website (Built with Framer): [SpyGamesSite](https://spygames.framer.w
 Read more about them in [CHARACTERS](docs/CHARACTERS.md)
 
 ## Release Dates:
-- Pre Alpha = 21/03/2026
-- Alpha 1 = 5/06/2026 (CURRENT)
-- Alpha 2 = ???
-- Alpha 3 = ???
+- Pre Alpha 
+- Alpha 1 (CURRENT)
+- Alpha 2 ???
+- Alpha 3 ???
 
 ## PLAY NOW
 [PlayQuest](https://www.roblox.com/games/14792484484)
